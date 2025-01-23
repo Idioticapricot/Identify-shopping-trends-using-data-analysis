@@ -71,7 +71,7 @@ This project focuses on analyzing shopping trends using data analysis techniques
 
 
 ## Contributors
-- [Your Name](https://github.com/idioticapricot)
+- [Atthavelli Karthikeya](https://github.com/idioticapricot)
 
 ---
 
