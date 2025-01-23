@@ -34,7 +34,7 @@ This project focuses on analyzing shopping trends using data analysis techniques
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone 
+   gh repo clone Idioticapricot/Identify-shopping-trends-using-data-analysis
    ```
 ---
 
